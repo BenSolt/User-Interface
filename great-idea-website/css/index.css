@@ -64,3 +64,35 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Bangers', cursive;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+ .container{ 
+	width: 900px;
+	margin: auto; 
+	 border: 2px solid green; 
+}
+
+header nav{
+	 display: inline-block; 
+}
+
+header nav a{
+	margin:0 20px;
+	color: gray;
+}
+
+.section1{
+	border: 2px solid red;
+}
+.box1{
+	border: 2px solid red;
+}
+
+.section2{
+	border: 2px solid red;
+}
