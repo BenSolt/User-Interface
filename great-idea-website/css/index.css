@@ -64,3 +64,116 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Bangers', cursive;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+div{
+line-height: 1.25;
+}
+
+p{
+font-size: 20px;
+}
+ .container{ 
+	width: 900px;
+	margin: auto;  
+}
+
+header nav{
+	margin-top: 35px;
+	 display: inline-block;
+}
+header .logo{
+	margin-left: 25px;
+}
+
+header nav a{
+	margin:0 30px;
+	color: gray;
+	display: inline-block;
+}
+
+
+.top{
+	margin: auto;
+	display: block;
+	padding: 60px 60px;
+	border-bottom: 1px solid black;
+}
+	.top div{
+	float: left;
+	margin-top: 36px;
+	} 
+
+	.top div h1{
+	font-size: 80px;
+	}
+
+	.top div button{
+	width: 160px;
+	height: 30px;
+	}
+
+	.top .area1text{
+	padding: 25 px;
+	text-align: center;
+	}
+
+
+.mid{
+	display: inline-block;
+	width: 100%;
+	height:250px;
+	}
+
+	.toparea{
+		display: block;
+		margin: 20px 0;
+	
+	}
+	
+		.toparea div{
+		display: inline-block;
+		width: 425px;
+		margin:10px;
+		
+		}
+
+	.midearea{
+		border-bottom: solid black 1px;
+		margin: 20px 0;
+	}
+
+		.midarea div{
+		display: inline-block;
+		width: 276px;
+		margin:10px;
+		}
+
+		.midarea div h2{
+		font-size: 20px;
+		font-weight: bold;
+		}
+
+.middle-img{
+	display: block;
+	width: 100%;
+}
+
+footer{
+	margin-bottom: 20px;
+	text-align: center;
+}
+.contact{
+margin: 20px 0;
+}
+.contact h4{
+	margin-top: 35px;
+}
+.contact p{
+	margin-top: 20px;
+}
